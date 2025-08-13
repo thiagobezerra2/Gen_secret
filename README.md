@@ -1,2 +1,2 @@
 # Gen_secret
-Password generator
+This password generator creates 20 characters.
